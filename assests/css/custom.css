@@ -1,0 +1,40 @@
+body{
+    background: white;
+}
+.section-data ,.ccc{
+    background:  #7B0099;
+}
+.text-white{
+           color:white;
+         
+}
+section,.intro,{
+   background:  white;
+}
+p{
+    color:black;
+}
+
+.fon{
+    font-family:Cambria,Arial,sans-serif;
+}
+.title{
+    font-family:"Apple-Chancery",Cambria,Sans-serif;
+    color:rgba(233, 7, 112, 0.82);
+    font-style: italic;
+    font-size: 22px;
+}
+.me{
+    font-family:zawgyi-one,Sans-Serif,Arial;
+    font-style:italic;
+    font-size:12px;
+    text-indent:30px;
+    
+}
+.section-data{
+
+    box-shadow:0px 0px 5px 1px rgba(0,0,0,0.75);
+}
+.mycard{
+    background-color:black;
+}
